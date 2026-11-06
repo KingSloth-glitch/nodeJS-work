@@ -1,0 +1,1 @@
+Hej! Detta är ett test av Promises.
